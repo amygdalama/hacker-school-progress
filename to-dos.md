@@ -10,7 +10,7 @@ Tasks I quit are crossed out. Deciding not to do things that are no longer intel
 ### To-Dos
 + [x] git workshop with Tom, 11am
 + [x] Combine tutorials into a single git
-+ [] Command line workshop with Mary, 3pm
++ [x] Command line workshop with Mary, 3pm
 + [] pandas cookbook tutorial (with ipython), chapters 3-5: https://github.com/jvns/pandas-cookbook
 + [x] Blog post - goals, organization, learnings
 + [] Blog post - ipython and pandas
