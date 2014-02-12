@@ -2,8 +2,7 @@ Hacker School Daily To-Dos
 ====================
 Completed tasks are marked with [x]  
 Incomplete tasks moved to a later date are marked with [-]  
-Tasks I quit are marked with []  
-(Hey! You! Deciding not to do things that are no longer intellectually stimulating is okay!)
+Tasks I quit are crossed out. Deciding not to do things that are no longer intellectually stimulating is okay!
 
 02/12/13
 ---------------------
