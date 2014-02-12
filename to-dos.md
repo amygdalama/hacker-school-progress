@@ -1,14 +1,18 @@
 Hacker School Daily To-Dos
 ====================
 Completed tasks are marked with [x]
+Incomplete tasks moved to a later date are marked with [-]
+Tasks I quit are marked with [] (Hey! You! Deciding not to do things that are no longer intellectually stimulating is okay!)
 
 02/12/13
 ---------------------
 
 ### To-Dos
-+ [] Review git with Tom at 11am
++ [] git workshop with Tom, 11am
++ [] Command line workshop with Mary, 3pm
 + [] pandas cookbook tutorial (with ipython), chapters 3-5: https://github.com/jvns/pandas-cookbook
-+ [] Blog post
++ [] Blog post - goals, organization, learnings
++ [] Blog post - ipython and pandas
 
 ### Spontaneous Arguably Interesting Things I Did
 
@@ -19,7 +23,7 @@ Completed tasks are marked with [x]
 + [x] Review git with http://pcottle.github.io/learnGitBranching/
 + [x] Set up hacker-school-progress git
 + [x] pandas cookbook tutorial (with ipython), chapters 1-2: https://github.com/jvns/pandas-cookbook
-+ [] Blog post
++ [-] Blog post 
 
 ### Spontaneous Arguably Interesting Things I Did
 + [x] Helped David with using regex to build a parser with Lua. Essentially he wanted a tool that would look at patterns like "name_of_thing = value_of_thing" or "name_of_thing=value_of_thing" and parse them into key, value pairs.
@@ -29,7 +33,7 @@ Completed tasks are marked with [x]
 
 ### To-Dos
 + [x] Set up laptop, delete all the feral pythons
-+ [x] Blog post
++ [x] Blog post - http://mathamy.com/2014/02/10/i-moved-cross-country-for-hacker-school-and-im-only-slightly-convinced-this-is-real-life/
 
 ### Spontaneous Arguably Interesting Things I Did
 + [x] Help Andree with text classification in scikit-learn
