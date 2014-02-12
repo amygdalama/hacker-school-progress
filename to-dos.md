@@ -8,13 +8,15 @@ Tasks I quit are crossed out. Deciding not to do things that are no longer intel
 ---------------------
 
 ### To-Dos
-+ [] git workshop with Tom, 11am
++ [x] git workshop with Tom, 11am
++ [x] Combine tutorials into a single git
 + [] Command line workshop with Mary, 3pm
 + [] pandas cookbook tutorial (with ipython), chapters 3-5: https://github.com/jvns/pandas-cookbook
-+ [] Blog post - goals, organization, learnings
++ [x] Blog post - goals, organization, learnings
 + [] Blog post - ipython and pandas
++ [] Blog post - using git to combine old repositories
 
-### Spontaneous Arguably Interesting Things I Did
+### Spontaneous, Arguably Interesting Things I Did
 
 02/11/13
 ---------------------
@@ -25,7 +27,7 @@ Tasks I quit are crossed out. Deciding not to do things that are no longer intel
 + [x] pandas cookbook tutorial (with ipython), chapters 1-2: https://github.com/jvns/pandas-cookbook
 + [-] Blog post 
 
-### Spontaneous Arguably Interesting Things I Did
+### Spontaneous, Arguably Interesting Things I Did
 + [x] Helped David with using regex to build a parser with Lua. Essentially he wanted a tool that would look at patterns like "name_of_thing = value_of_thing" or "name_of_thing=value_of_thing" and parse them into key, value pairs.
 
 02/10/13
