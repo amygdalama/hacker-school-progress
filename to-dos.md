@@ -9,6 +9,7 @@ Completed tasks are marked with [x]
 
 ### To-Dos
 + [x] pandas cookbook tutorial (with ipython), chapters 4-5: https://github.com/jvns/pandas-cookbook
++ [] Email Julia Evans with suggestions on including %matplotlib inline in the notebook's code (rather than at the command line) - julia@jvns.ca
 + [] Blog post - ipython and pandas
 + [] Meet Stefan Karpinski, think of a question to ask him
 
