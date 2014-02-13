@@ -1,7 +1,7 @@
 Hacker School Daily To-Dos
 ====================
 Completed tasks are marked with [x]  
-*Incomplete tasks moved to a later date are in italics*
+*Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
 02/13/13, Thursday
