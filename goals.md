@@ -31,11 +31,14 @@ What are some specific things I want to learn at Hacker School?
   * statsmodels
   * matplotlib (better)
   * nltk
-* Python best practices
+* Data Analysis/Machine Learning
+  * 
 * Software Engineering
+  * Python best practices
   * How to make a Python package
   * When code should be a function vs a class vs a module vs a package
   * How things like __init__ work
 * Markdown
-* Data Analysis/Machine Learning
-  * 
+* git
+  * merge, push, pull
+  * Best Practices
