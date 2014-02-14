@@ -18,6 +18,7 @@ Completed tasks are marked with [x]
 ---------------------
 
 ### To-Dos
+* [x] Blog post - ipython and pandas
 * [] Migrate personal website to GitHub Pages with Pelican
 
 ### Spontaneous, Arguably Interesting Things I Did
@@ -29,10 +30,10 @@ Completed tasks are marked with [x]
 ### To-Dos
 * [x] pandas cookbook tutorial (with ipython), chapters 4-5: https://github.com/jvns/pandas-cookbook
 * [x] Email Julia Evans with suggestions on including %matplotlib inline in the notebook's code (rather than at the command line) - julia@jvns.ca
-* [] Blog post - ipython and pandas
+* [-] *Blog post - ipython and pandas*
 * [x] Meet Stefan Karpinski, think of a question to ask him
-* [] Attend Thursday presentation session
-* [] Alumni Game Night!
+* [x] Attend Thursday presentation session
+* [x] Alumni Game Night!
 
 ### Spontaneous, Arguably Interesting Things I Did
 
