@@ -4,11 +4,36 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/18/13, Tuesday
+---------------------
+
+### To-Dos
+* [x] What is that process doing? Talk with Greg Price, 11am
+* [] Final website modifications - Header image, twitter icon, contact page icons
+* [] Transfer mathamy.com domain to GitHub pages
+* [] Start work on Julia's pandas cookbook
+* [] Mel Chua talk on learning styles, Xpm
+* [] Goal-setting workshop with Stacey, 3:30pm
+
+
+02/17/13, Monday
+---------------------
+
+### To-Dos
+* [x] Fix some website formatting issues, learn CSS/HTML workflow
+* [-] *Blog Post - how to migrate your wordpress site to GitHub pages/Pelican*
+* [x] Mel Chua education talk: http://de.slideshare.net/mchua/edutalk-w2014
+* [-] *Blog Post - How should I learn to code?*
+* [x] Discuss my ideas for how to learn blog post with Mel
+
+
 02/15/13, Saturday
 ---------------------
 
 ### To-Dos
-* [] Blog Post - how to migrate your wordpress site to GitHub pages/Pelican
+* [x] Migrate personal website to GitHub Pages with Pelican
+* [-] *Blog Post - how to migrate your wordpress site to GitHub pages/Pelican*
+* [-] *Blog Post - How should I learn to code?*
 
 
 ### Spontaneous, Arguably Interesting Things I Did
@@ -19,7 +44,7 @@ Completed tasks are marked with [x]
 
 ### To-Dos
 * [x] Blog post - ipython and pandas
-* [] Migrate personal website to GitHub Pages with Pelican
+* [-] *Migrate personal website to GitHub Pages with Pelican*
 
 ### Spontaneous, Arguably Interesting Things I Did
 

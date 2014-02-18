@@ -38,7 +38,12 @@ What are some specific things I want to learn at Hacker School?
   * How to make a Python package
   * When code should be a function vs a class vs a module vs a package
   * How things like __init__ work
+* Theoretical Computer Science
+  * What is functional programming?
+  * What does type mean? Static/dynamic typing? Strong/weak typing?
+  * What is the difference between a compiled language and an interpreted language? What does a compiler do?
 * Markdown
 * git
   * merge, push, pull
   * Best Practices
+* bash
