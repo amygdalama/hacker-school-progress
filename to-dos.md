@@ -10,7 +10,7 @@ Completed tasks are marked with [x]
 ### To-Dos
 * [x] What is that process doing? Talk with Greg Price, 11am
 * [x] Final website modifications - Header image, twitter icon, contact page icons
-* [-] *Transfer mathamy.com domain to GitHub pages*
+* [x] Transfer mathamy.com domain to GitHub pages
 * [-] *Start work on Julia's pandas cookbook*
 * [x] Mel Chua talk on learning styles, 2pm - http://blog.melchua.com/2013/06/19/hacker-school-session-engineering-learning-styles/
 * ~~[] Goal-setting workshop with Stacey, 3:30pm~~
