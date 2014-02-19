@@ -25,8 +25,11 @@ Completed tasks are marked with [x]
 ### To-Dos
 * [] Edit Julia's pandas cookbook
 * [] Finish Blog Post - Migrating to pandas
-* [] Python internals, 1pm
 * [] Poker night
+
+### Spontaneous, Arguably Interesting Things I Did
+* [x] Signal Processing in Python with Mel Chua - 
+* [x] Created IPython Notebook for Mel's signal processing tutorial - [NBViewer](http://nbviewer.ipython.org/github/amygdalama/pycon-sigproc/blob/master/signal_processing.ipynb), [GitHub](https://github.com/amygdalama/pycon-sigproc)
 
 02/18/13, Tuesday
 ---------------------
