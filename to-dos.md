@@ -9,11 +9,12 @@ Completed tasks are marked with [x]
 
 ### To-Dos
 * [x] What is that process doing? Talk with Greg Price, 11am
-* [] Final website modifications - Header image, twitter icon, contact page icons
-* [] Transfer mathamy.com domain to GitHub pages
-* [] Start work on Julia's pandas cookbook
-* [] Mel Chua talk on learning styles, Xpm
-* [] Goal-setting workshop with Stacey, 3:30pm
+* [x] Final website modifications - Header image, twitter icon, contact page icons
+* [-] *Transfer mathamy.com domain to GitHub pages*
+* [-] *Start work on Julia's pandas cookbook*
+* [x] Mel Chua talk on learning styles, 2pm - http://blog.melchua.com/2013/06/19/hacker-school-session-engineering-learning-styles/
+* ~~[] Goal-setting workshop with Stacey, 3:30pm~~
+* [x] Jobs talk with Allison and Tom, 6pm
 
 
 02/17/13, Monday
