@@ -4,6 +4,30 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/21/13, Friday
+---------------------
+
+### To-Dos
+* [] Nerd Nite!
+* [] Blog post - Fuck the old goals, they're boring
+
+02/20/13, Thursday
+---------------------
+
+### To-Dos
+* [] Finish Blog Post - How Should I Learn to Code?
+* [] Read about AI! Think of a project! Eeeep!
+* [] Attend presentations
+
+02/19/13, Wednesday
+---------------------
+
+### To-Dos
+* [] Edit Julia's pandas cookbook
+* [] Finish Blog Post - Migrating to pandas
+* [] Python internals, 1pm
+* [] Poker night
+
 02/18/13, Tuesday
 ---------------------
 
@@ -16,6 +40,8 @@ Completed tasks are marked with [x]
 * ~~[] Goal-setting workshop with Stacey, 3:30pm~~
 * [x] Jobs talk with Allison and Tom, 6pm
 
+### Spontaneous, Arguably Interesting Things I Did
+* [x] Helped Chris set up Pelican and GitHub Pages
 
 02/17/13, Monday
 ---------------------
@@ -36,10 +62,6 @@ Completed tasks are marked with [x]
 * [-] *Blog Post - how to migrate your wordpress site to GitHub pages/Pelican*
 * [-] *Blog Post - How should I learn to code?*
 
-
-### Spontaneous, Arguably Interesting Things I Did
-
-
 02/14/13, Friday
 ---------------------
 
@@ -48,7 +70,6 @@ Completed tasks are marked with [x]
 * [-] *Migrate personal website to GitHub Pages with Pelican*
 
 ### Spontaneous, Arguably Interesting Things I Did
-
 
 02/13/13, Thursday
 ---------------------
@@ -62,7 +83,6 @@ Completed tasks are marked with [x]
 * [x] Alumni Game Night!
 
 ### Spontaneous, Arguably Interesting Things I Did
-
 
 02/12/13, Wednesday
 ---------------------
@@ -78,7 +98,6 @@ Completed tasks are marked with [x]
 
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Late-night experiment with migrating personal website hosted on WordPress to GitHub pages with Pelican. Pelican is fairly friendly with WordPress .xml output, as it has a built-in tool that converts the .xml files to .md files (which Pelican then converts to HTML), but not all of my embedded code gets transferred perfectly. Thus I'll have to manually edit the resulting .md files. Because of this, if I want to transfer my site to GitHub/Pelican, I should do so sooner rather than later, in order to minimize the number of .md files (one per post) I have to edit. This is a good project for the weekend.
-
 
 02/11/13, Tuesday
 ---------------------
