@@ -15,21 +15,21 @@ Completed tasks are marked with [x]
 ---------------------
 
 ### To-Dos
-* [] Finish Blog Post - How Should I Learn to Code?
-* [] Read about AI! Think of a project! Eeeep!
+* [] Finish Julia's pandas cookbook
+* [] Finish Blog Post - Migrating to pandas
 * [] Attend presentations
+* [] Finish Blog Post - How Should I Learn to Code?
 
 02/19/13, Wednesday
 ---------------------
 
 ### To-Dos
-* [] Edit Julia's pandas cookbook
-* [] Finish Blog Post - Migrating to pandas
-* [] Poker night
+* [x] Edit Julia's pandas cookbook
+* [-] *Finish Blog Post - Migrating to pandas*
 
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Signal Processing in Python with Mel Chua - 
-* [x] Created IPython Notebook for Mel's signal processing tutorial - [NBViewer](http://nbviewer.ipython.org/github/amygdalama/pycon-sigproc/blob/master/signal_processing.ipynb), [GitHub](https://github.com/amygdalama/pycon-sigproc)
+* [x] Created IPython Notebook for Mel's signal processing tutorial - [NBViewer](http://nbviewer.ipython.org/github/amygdalama/pycon-sigproc/blob/master/signal_processing.ipynb), [GitHub](https://github.com/amygdalama/pycon-sigproc) - first pull request eeeep!
 
 02/18/13, Tuesday
 ---------------------
