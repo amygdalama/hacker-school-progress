@@ -15,10 +15,14 @@ Completed tasks are marked with [x]
 ---------------------
 
 ### To-Dos
-* [] Finish Julia's pandas cookbook
+* [x] Finish Julia's pandas cookbook
 * [] Finish Blog Post - Migrating to pandas
 * [] Attend presentations
 * [] Finish Blog Post - How Should I Learn to Code?
+
+### Spontaneous, Arguably Interesting Things I Did
+* [x] Git internals workshop with Alan and Greg
+* [] Source-diving workshop with Greg (what is going on in this huge chunk of source code?)
 
 02/19/13, Wednesday
 ---------------------
