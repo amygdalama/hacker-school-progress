@@ -4,32 +4,49 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/23/13, Sunday
+---------------------
+
+### To-Dos
+* [] Blog post - Fuck the old goals, they're boring
+* [] Work on hash table. Hash table blog post?
+
+02/22/13, Saturday
+---------------------
+
+### To-Dos
+* [] Finish Blog Post - Migrating to Pelican
+* [] Finish Blog Post - How Should I Learn to Code?
+* [] Music Hackathon presentations at Etsy
+
 02/21/13, Friday
 ---------------------
 
 ### To-Dos
-* [] Nerd Nite!
-* [] Blog post - Fuck the old goals, they're boring
+* [x] Nerd Nite!
+* [x] Hashtable workshop - https://hackpad.com/Jobs-Friday-February-21-Hash-Tables-NNBqlsk9PYa
+* [x] Work on Blog Post - Migrating to Pelican
 
 02/20/13, Thursday
 ---------------------
 
 ### To-Dos
 * [x] Finish Julia's pandas cookbook
-* [] Finish Blog Post - Migrating to pandas
-* [] Attend presentations
-* [] Finish Blog Post - How Should I Learn to Code?
+* [-] **Finish Blog Post - Migrating to Pelican**
+* [x] Attend presentations
+* [-] **Finish Blog Post - How Should I Learn to Code?**
 
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Git internals workshop with Alan and Greg
-* [] Source-diving workshop with Greg (what is going on in this huge chunk of source code?)
+* [x] Source-diving workshop with Greg (what is going on in this huge chunk of source code?)
+* [x] Project Euler
 
 02/19/13, Wednesday
 ---------------------
 
 ### To-Dos
 * [x] Edit Julia's pandas cookbook
-* [-] *Finish Blog Post - Migrating to pandas*
+* [-] *Finish Blog Post - Migrating to Pelican*
 
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Signal Processing in Python with Mel Chua - 
