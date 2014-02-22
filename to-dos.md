@@ -10,14 +10,15 @@ Completed tasks are marked with [x]
 ### To-Dos
 * [] Blog post - Fuck the old goals, they're boring
 * [] Work on hash table. Hash table blog post?
+* [] Finish Blog Post - How Should I Learn to Code?
 
 02/22/13, Saturday
 ---------------------
 
 ### To-Dos
-* [] Finish Blog Post - Migrating to Pelican
-* [] Finish Blog Post - How Should I Learn to Code?
-* [] Music Hackathon presentations at Etsy
+* [x] Finish Blog Post - Migrating to Pelican
+* [-] **Finish Blog Post - How Should I Learn to Code?**
+* [x] Music Hackathon presentations at Etsy
 
 02/21/13, Friday
 ---------------------
