@@ -4,13 +4,18 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/24/13, Monday
+---------------------
+### To-Dos
+
+
 02/23/13, Sunday
 ---------------------
 
 ### To-Dos
-* [] Blog post - Fuck the old goals, they're boring
-* [] Work on hash table. Hash table blog post?
-* [] Finish Blog Post - How Should I Learn to Code?
+* ~~[] Blog post - Fuck the old goals, they're boring~~
+* [x] Finish Blog Post - How Should I Learn to Code?
+* [x] Blog post - what if I fucked up my website's github repo? - added to original post
 
 02/22/13, Saturday
 ---------------------
