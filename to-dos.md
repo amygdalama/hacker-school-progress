@@ -4,10 +4,20 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/25/13, Tuesday
+---------------------
+### To-Dos
+[] Get more clojure
+[] Work on furrier-transforms
+
 02/24/13, Monday
 ---------------------
 ### To-Dos
-
+[x] Install Clojure dependencies
+[x] Learn how to execute Clojure scripts
+[x] Learn some Clojure syntax
+[x] Evan Czaplicki talk on types
+[x] Evan talk on dynamic reactive functional programming in Elm
 
 02/23/13, Sunday
 ---------------------
