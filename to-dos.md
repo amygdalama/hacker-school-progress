@@ -4,11 +4,24 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/26/13, Wednesday
+---------------------
+### To-Dos
+[x] Attempt to feel better
+[x] Python internals with Allison (see Programming > Python internals bookmarks)
+[] Furrier Transform - Convert actual sound to spectrogram and then reconstruct it
+[x] Enable Google Analytics (or at least attempt to)
+[x] Enable Disqus (or at least attempt to)
+
 02/25/13, Tuesday
 ---------------------
 ### To-Dos
-[] Get more clojure
-[] Work on furrier-transforms
+~~[] Get more clojure - http://java.ociweb.com/mark/clojure/article.html~~
+[x] Work on furrier-transform
+~~[] Read about http://en.wikipedia.org/wiki/Additive_synthesis~~
+~~[] Read about signal processing - fourier transforms, gaussian filter~~
+[x] Crazy types with Evan
+[x] Sleep
 
 02/24/13, Monday
 ---------------------
