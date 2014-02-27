@@ -4,14 +4,27 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+02/27/13, Thursday
+---------------------
+
+### To-Dos
+[x] Me time!
+[] Work on reconstructing violin sound
+[] Fat Cat Alumni night!
+
+### Spontaneous, Arguably Interesting Things I Did
+[x] Helped David with a recursive parser in python
+
 02/26/13, Wednesday
 ---------------------
+
 ### To-Dos
 [x] Attempt to feel better
 [x] Python internals with Allison (see Programming > Python internals bookmarks)
-[] Furrier Transform - Convert actual sound to spectrogram and then reconstruct it
+[x] Furrier Transform - Convert actual sound to spectrogram and then reconstruct it
 [x] Enable Google Analytics (or at least attempt to)
 [x] Enable Disqus (or at least attempt to)
+[x] Code Review with Allison
 
 02/25/13, Tuesday
 ---------------------
