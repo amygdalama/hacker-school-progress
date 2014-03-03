@@ -4,13 +4,38 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/03/13, Monday
+---------------------
+
+### I Did
+[x] Switch to weekly goals and a daily things-I-did list
+
+03/02/13, Sunday
+---------------------
+
+### To-Dos
+[x] NY Transit Museum!
+
+
+03/01/13, Saturday
+---------------------
+
+### To-Dos
+[x] Bike ride!
+
+02/28/13, Friday
+---------------------
+
+### To-Dos
+[x] Recursive functions with Katrina! https://hackpad.com/Jobs-Friday-February-28-Recursion-GViCIj1PNBP
+
 02/27/13, Thursday
 ---------------------
 
 ### To-Dos
 [x] Me time!
-[] Work on reconstructing violin sound
-[] Fat Cat Alumni night!
+[x] Work on reconstructing violin sound
+[x] Fat Cat Alumni night!
 
 ### Spontaneous, Arguably Interesting Things I Did
 [x] Helped David with a recursive parser in python
