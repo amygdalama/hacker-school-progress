@@ -4,11 +4,28 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/05/13, Wednesday
+---------------------
+
+### I Did
+[x] Worked on furrier transforms - made sounds! Although they're slightly off. Made a proper script!
+[x] Helped a couple people with Pelican! Felt useful! <3
+[x] Data Rave Meetup - Dark Matter, Earthquakes, the First Stars & Python
+
+03/04/13, Tuesday
+---------------------
+
+### I Did
+[x] Worked on furrier transforms
+[x] Cosmos premiere!
+
 03/03/13, Monday
 ---------------------
 
 ### I Did
 [x] Switch to weekly goals and a daily things-I-did list
+[x] Worked on furrier transforms
+[x] Talk - Michael Bernstein, a Unifying Theory of Garbage Collection
 
 03/02/13, Sunday
 ---------------------
