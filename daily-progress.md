@@ -4,6 +4,52 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/11/13, Tuesday
+---------------------
+
+### I Did
+* 
+
+03/10/13, Monday
+---------------------
+
+### I Did
+* Helped Rob with Pelican, made little progress, something is wrong on his environment and I didn't figure it out
+* Got help from Andreas on Furrier Transforms - yay!
+* Crashed. Hard.
+
+03/09/13, Sunday
+---------------------
+
+### I Did
+* Cloisters
+* Wandering around Manhattan
+* Laid in bed, much needed relaxation
+
+03/08/13, Saturday
+---------------------
+
+### I Did
+* Blog post - Publication using GitHooks
+* Read Maus! Outside!
+
+03/07/13, Friday
+---------------------
+
+### I Did
+* Prospect Park and Brooklyn Public Library with Paddy, David, Mindy
+* Attempted learning graphs at Friday jobs prep session, but crashed and went home, fucked around on computer, wasted time
+
+
+03/06/13, Thursday
+---------------------
+
+### I Did
+[x] Helped David Branner with Pelican, I think, maybe
+[x] Worked on Nagini, i.e. replacing Python functions with Harry Potter spells
+
+*completed much later... maybe this isn't a valuable way to spend time*
+
 03/05/13, Wednesday
 ---------------------
 
