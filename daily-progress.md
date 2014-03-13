@@ -4,11 +4,27 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/13/13, Thursday
+---------------------
+
+### I Did
+
+
+03/12/13, Wednesday
+---------------------
+
+### I Did
+* Nagini - downloaded cpython, made some edits, ruined a .git repository, started over. Allison realized we need to compile an intermediary python to compile our import-less python.
+* git workshop
+
 03/11/13, Tuesday
 ---------------------
 
 ### I Did
-* 
+* Worked on Furrier Transforms a bit. Felt miserable. Quit.
+* Resumed nagini project - cloned cpython, made "nagini" an executable statement, started replacing import with accio
+* Helped Gina with Pelican/blog setup
+* Star Trek with Mindy
 
 03/10/13, Monday
 ---------------------
