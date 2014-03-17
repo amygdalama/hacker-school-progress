@@ -1,8 +1,15 @@
 Week 6
 ====================
-[] Learn about bootstrapping and how Python is compiled!
-[] Learn more about what it takes to create and remove keywords from Python!
-[] 
+[] Learn about __builtins__ vs __builtin__
+[] Learn about import hooks
+[] Get better at giving talks and making slides
+[] Get better at writing proposals for talks
+
+Week 5
+====================
+[x] Learn about bootstrapping and how Python is compiled!
+[x] Learn more about what it takes to create and remove keywords from Python!
+[x] Give a talk!
 
 
 HOLY SHIT I'M DOING THIS WRONG

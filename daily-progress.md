@@ -4,10 +4,41 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/17/13, Monday
+---------------------
+
+### I Did
+* 
+
+03/16/13, Sunday
+---------------------
+
+### I Did
+* Prospect Park
+* chores, cooking
+
+03/15/13, Saturday
+---------------------
+
+### I Did
+* Jewish Museum with Ana
+* Watched a/b duo performance
+* Merged first pull request from a stranger! They fixed a typo in my blog :heart eyes cat:
+* Submitted presentation proposal to Hack and Tell
+
+03/14/13, Friday
+---------------------
+
+### I Did
+* Blog post on nagini!
+* Holy shit the internet loves me!
+
 03/13/13, Thursday
 ---------------------
 
 ### I Did
+* Nagini - compiled successfully! replaced import with accio!
+* Gave a talk!
 
 
 03/12/13, Wednesday
