@@ -2,8 +2,8 @@ Week 6
 ====================
 [x] Learn about __builtins__ vs __builtin__
 [] Learn about import hooks
-[] Get better at giving talks and making slides
-[] Get better at writing proposals for talks
+[x] Get better at giving talks and making slides
+[x] Get better at writing proposals for talks
 [] Learn about algorithms - look at jobs Friday stuff I missed
 
 Week 5
