@@ -4,11 +4,22 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/18/13, Tuesday
+---------------------
+
+### I Did
+* Attended Tom's session on Classes, Objects, Descriptors in Python. See notes in ~/projects/objects
+* 
+
+
 03/17/13, Monday
 ---------------------
 
 ### I Did
-* 
+* Emailed PyLadies about speaking at Coding Potluck on Wednesday
+* Responded to Brian Costlow about speaking at PyOhio
+* learned more about how import statements work when they're not in the __main__ module
+* learned more about __builtin__ vs __builtins__
 
 03/16/13, Sunday
 ---------------------
