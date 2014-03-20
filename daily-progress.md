@@ -4,6 +4,13 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/20/13, Thursday
+---------------------
+
+### I Did
+* 
+
+
 03/19/13, Wednesday
 ---------------------
 
