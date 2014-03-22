@@ -4,11 +4,20 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/21/13, Friday
+---------------------
+### I Did
+* submitted proposals to pyohio, self.conference
+* made a link shortener
+* website - added projects and talks pages
+
+
 03/20/13, Thursday
 ---------------------
 
 ### I Did
-* 
+* submitted proposals to bangbangcon and open source bridge
+* a bit of bpython bugs
 
 
 03/19/13, Wednesday
