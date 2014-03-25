@@ -1,3 +1,12 @@
+Week 7
+====================
+[] Learn about functional programming
+[x] Get better at giving talks and making slides
+[] Learn about syllablizing
+[] Learn about how the Python interpreter/parser works
+[x] Get better at reading large code-bases
+[] Catch up on some jobs friday stuff
+
 Week 6
 ====================
 [x] Learn about __builtins__ vs __builtin__

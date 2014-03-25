@@ -4,6 +4,34 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/25/13, Tuesday
+---------------------
+### I Did
+* Mary's intro to functional programming
+* Whoa I understand side-effects
+* Whoa I understand map, reduce, filter
+* Gave a talk at Hack and Tell!
+
+03/24/13, Monday
+---------------------
+### I Did
+* Started working on PyKu with Rob - trying to write a program that takes in a string and counts the number of syllables in the string
+* Fixed a bpython bug and submitted a patch with Tom
+* Talked with Lindsey Kuper about Python interpreter
+* Worked on slides for replacing import with accio talk with David Branner (they're now much better)
+* Attended Lindsey Kuper talk
+
+03/23/13, Sunday
+---------------------
+### I Did
+* Blog Post! - __builtin__ vs __builtins__
+
+03/22/13, Saturday
+---------------------
+### I Did
+* The Met!
+* Central Park!
+
 03/21/13, Friday
 ---------------------
 ### I Did
