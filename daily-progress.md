@@ -4,6 +4,24 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+03/27/13, Thursday
+---------------------
+### I Did
+* Lunch with Zed Shaw!
+* The bpython bug I fixed with Tom got merged! Cool!
+* Found some great Python internals resources (all in my bookmarks)
+* Helped David write an object that's somewhat recursive
+
+
+03/26/13, Wednesday
+---------------------
+### I Did
+* Birthday!
+* Worked on counting syllables with Rob
+* A bit of archaeology in cpython - reading about how the compiler works, finding the interpreter
+* Learned a bit about Heroku
+
+
 03/25/13, Tuesday
 ---------------------
 ### I Did
@@ -11,6 +29,7 @@ Completed tasks are marked with [x]
 * Whoa I understand side-effects
 * Whoa I understand map, reduce, filter
 * Gave a talk at Hack and Tell!
+* Met Zed Shaw (holy shit)!
 
 03/24/13, Monday
 ---------------------
