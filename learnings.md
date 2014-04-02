@@ -3,6 +3,10 @@ Incidental Things I Learned
 
 This is for me to record lessons for how to better approach Hacker School/learning.
 
+04/02/13
+---------------------
+ASK MORE QUESTIONS! A few different people asked me questions on things I know about (math, Python) yesterday and it felt so WONDERFUL! I suddenly felt useful and knowledgeable and worthy of being at Hacker School! Ask more questions! Help other people feel useful!
+
 03/20/13
 ---------------------
 * You don't have to explicitly elicit feedback from people to get feedback on your talk! If people ask you questions, it's likely about something they find interesting but you didn't give enough detail about. Elaborate on those areas for the next talk!

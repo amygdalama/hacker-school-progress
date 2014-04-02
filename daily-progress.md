@@ -4,6 +4,37 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+04/02/13, Wednesday
+---------------------
+### I Did
+
+
+04/01/13, Tuesday
+---------------------
+### I Did
+* Wrote "Hello World" blog post about definiing functions using `exec`, `compile`, and swapping out their `__code__` methods.
+* Finished Ch1 Dive, did about 20% of Ch2
+* Learned about integers (there are short and long ints) in Clojure that you have to write your own exponential function in Clojure if you want to use long ints (is that true?? what if you passed the builtin function in Clojure a long int? - ask Jeff)
+* Learned about virtualenvwrapper hooks. Cool!
+
+03/31/13, Monday
+---------------------
+### I Did
+* Finished A Love Affair blog post
+* Read most of Ch1 of Dive into Python
+* Figured out how to use `exec`, `eval`, and `compile` Python builtin functions
+* Figured out what happens with `import_from` statements: the entire module gets added to `sys.modules`, but only the part after the `import` gets binded to a name in the namespace (write about this! and how I tested it!)
+
+03/30/13, Sunday
+---------------------
+### I Did
+* Half of my A Love Affair with Broken Things blog post
+
+03/28/13 - 03/29/13
+---------------------
+### I Did
+* Jenny and Joanna visited!
+
 03/27/13, Thursday
 ---------------------
 ### I Did
