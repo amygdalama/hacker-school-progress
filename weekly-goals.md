@@ -1,8 +1,13 @@
+Week 8
+====================
+[] Learn about Python! Learn first four chapters of Dive into Python!
+[] Catch up on Jobs Friday stuff
+
 Week 7
 ====================
-[] Learn about functional programming
+[x] Learn about functional programming
 [x] Get better at giving talks and making slides
-[] Learn about syllablizing
+[x] Learn about syllablizing
 [] Learn about how the Python interpreter/parser works
 [x] Get better at reading large code-bases
 [] Catch up on some jobs friday stuff
