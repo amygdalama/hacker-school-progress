@@ -7,6 +7,13 @@ Completed tasks are marked with [x]
 04/02/13, Wednesday
 ---------------------
 ### I Did
+* Dive into Python Ch 2-3
+* Figured out how to peek into the changes in locals() while an expression like
+
+      >>> reduce(lambda a, x: a + x, range(5), [])
+    
+  is running
+
 
 
 04/01/13, Tuesday
