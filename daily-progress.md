@@ -10,9 +10,9 @@ Completed tasks are marked with [x]
 * Dive into Python Ch 2-3
 * Figured out how to peek into the changes in locals() while an expression like
 
-      ```
-      >>> reduce(lambda a, x: a + x, range(5), [])
-      ```
+  ```
+  >>> reduce(lambda a, x: a + x, range(5), [])
+  ```
     
   is running
 
