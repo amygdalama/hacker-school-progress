@@ -4,9 +4,18 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+04/04/13, Friday
+---------------------
+* 
+
+04/03/13, Thursday
+---------------------
+* Dive into Python Ch 4 (50%)
+* Sat in the park, in the sun
+* Thursday talks
+
 04/02/13, Wednesday
 ---------------------
-### I Did
 * Dive into Python Ch 2-3
 * Figured out how to peek into the changes in locals() while an expression like
 
@@ -16,11 +25,8 @@ Completed tasks are marked with [x]
     
   is running
 
-
-
 04/01/13, Tuesday
 ---------------------
-### I Did
 * Wrote "Hello World" blog post about definiing functions using `exec`, `compile`, and swapping out their `__code__` methods.
 * Finished Ch1 Dive, did about 20% of Ch2
 * Learned about integers (there are short and long ints) in Clojure that you have to write your own exponential function in Clojure if you want to use long ints (is that true?? what if you passed the builtin function in Clojure a long int? - ask Jeff)
@@ -28,7 +34,6 @@ Completed tasks are marked with [x]
 
 03/31/13, Monday
 ---------------------
-### I Did
 * Finished A Love Affair blog post
 * Read most of Ch1 of Dive into Python
 * Figured out how to use `exec`, `eval`, and `compile` Python builtin functions
@@ -36,17 +41,14 @@ Completed tasks are marked with [x]
 
 03/30/13, Sunday
 ---------------------
-### I Did
 * Half of my A Love Affair with Broken Things blog post
 
 03/28/13 - 03/29/13
 ---------------------
-### I Did
 * Jenny and Joanna visited!
 
 03/27/13, Thursday
 ---------------------
-### I Did
 * Lunch with Zed Shaw!
 * The bpython bug I fixed with Tom got merged! Cool!
 * Found some great Python internals resources (all in my bookmarks)
@@ -55,7 +57,6 @@ Completed tasks are marked with [x]
 
 03/26/13, Wednesday
 ---------------------
-### I Did
 * Birthday!
 * Worked on counting syllables with Rob
 * A bit of archaeology in cpython - reading about how the compiler works, finding the interpreter
@@ -64,7 +65,6 @@ Completed tasks are marked with [x]
 
 03/25/13, Tuesday
 ---------------------
-### I Did
 * Mary's intro to functional programming
 * Whoa I understand side-effects
 * Whoa I understand map, reduce, filter
@@ -73,7 +73,6 @@ Completed tasks are marked with [x]
 
 03/24/13, Monday
 ---------------------
-### I Did
 * Started working on PyKu with Rob - trying to write a program that takes in a string and counts the number of syllables in the string
 * Fixed a bpython bug and submitted a patch with Tom
 * Talked with Lindsey Kuper about Python interpreter
@@ -82,18 +81,17 @@ Completed tasks are marked with [x]
 
 03/23/13, Sunday
 ---------------------
-### I Did
 * Blog Post! - __builtin__ vs __builtins__
 
 03/22/13, Saturday
 ---------------------
-### I Did
+
 * The Met!
 * Central Park!
 
 03/21/13, Friday
 ---------------------
-### I Did
+
 * submitted proposals to pyohio, self.conference
 * made a link shortener
 * website - added projects and talks pages
@@ -102,7 +100,6 @@ Completed tasks are marked with [x]
 03/20/13, Thursday
 ---------------------
 
-### I Did
 * submitted proposals to bangbangcon and open source bridge
 * a bit of bpython bugs
 
@@ -110,7 +107,6 @@ Completed tasks are marked with [x]
 03/19/13, Wednesday
 ---------------------
 
-### I Did
 * finished slides for PyLadies talk
 * wrote proposal, sent to Julia
 * git seminar
@@ -120,7 +116,6 @@ Completed tasks are marked with [x]
 03/18/13, Tuesday
 ---------------------
 
-### I Did
 * Attended Tom's session on Classes, Objects, Descriptors in Python. See notes in ~/projects/objects
 * worked on slides for PyLadies talk
 
@@ -128,7 +123,6 @@ Completed tasks are marked with [x]
 03/17/13, Monday
 ---------------------
 
-### I Did
 * Emailed PyLadies about speaking at Coding Potluck on Wednesday
 * Responded to Brian Costlow about speaking at PyOhio
 * learned more about how import statements work when they're not in the __main__ module
@@ -137,14 +131,12 @@ Completed tasks are marked with [x]
 03/16/13, Sunday
 ---------------------
 
-### I Did
 * Prospect Park
 * chores, cooking
 
 03/15/13, Saturday
 ---------------------
 
-### I Did
 * Jewish Museum with Ana
 * Watched a/b duo performance
 * Merged first pull request from a stranger! They fixed a typo in my blog :heart eyes cat:
@@ -153,14 +145,12 @@ Completed tasks are marked with [x]
 03/14/13, Friday
 ---------------------
 
-### I Did
 * Blog post on nagini!
 * Holy shit the internet loves me!
 
 03/13/13, Thursday
 ---------------------
 
-### I Did
 * Nagini - compiled successfully! replaced import with accio!
 * Gave a talk!
 
@@ -168,14 +158,12 @@ Completed tasks are marked with [x]
 03/12/13, Wednesday
 ---------------------
 
-### I Did
 * Nagini - downloaded cpython, made some edits, ruined a .git repository, started over. Allison realized we need to compile an intermediary python to compile our import-less python.
 * git workshop
 
 03/11/13, Tuesday
 ---------------------
 
-### I Did
 * Worked on Furrier Transforms a bit. Felt miserable. Quit.
 * Resumed nagini project - cloned cpython, made "nagini" an executable statement, started replacing import with accio
 * Helped Gina with Pelican/blog setup
@@ -184,7 +172,6 @@ Completed tasks are marked with [x]
 03/10/13, Monday
 ---------------------
 
-### I Did
 * Helped Rob with Pelican, made little progress, something is wrong on his environment and I didn't figure it out
 * Got help from Andreas on Furrier Transforms - yay!
 * Crashed. Hard.
@@ -192,7 +179,6 @@ Completed tasks are marked with [x]
 03/09/13, Sunday
 ---------------------
 
-### I Did
 * Cloisters
 * Wandering around Manhattan
 * Laid in bed, much needed relaxation
@@ -200,14 +186,12 @@ Completed tasks are marked with [x]
 03/08/13, Saturday
 ---------------------
 
-### I Did
 * Blog post - Publication using GitHooks
 * Read Maus! Outside!
 
 03/07/13, Friday
 ---------------------
 
-### I Did
 * Prospect Park and Brooklyn Public Library with Paddy, David, Mindy
 * Attempted learning graphs at Friday jobs prep session, but crashed and went home, fucked around on computer, wasted time
 
@@ -215,7 +199,6 @@ Completed tasks are marked with [x]
 03/06/13, Thursday
 ---------------------
 
-### I Did
 [x] Helped David Branner with Pelican, I think, maybe
 [x] Worked on Nagini, i.e. replacing Python functions with Harry Potter spells
 
@@ -224,7 +207,6 @@ Completed tasks are marked with [x]
 03/05/13, Wednesday
 ---------------------
 
-### I Did
 [x] Worked on furrier transforms - made sounds! Although they're slightly off. Made a proper script!
 [x] Helped a couple people with Pelican! Felt useful! <3
 [x] Data Rave Meetup - Dark Matter, Earthquakes, the First Stars & Python
@@ -232,14 +214,12 @@ Completed tasks are marked with [x]
 03/04/13, Tuesday
 ---------------------
 
-### I Did
 [x] Worked on furrier transforms
 [x] Cosmos premiere!
 
 03/03/13, Monday
 ---------------------
 
-### I Did
 [x] Switch to weekly goals and a daily things-I-did list
 [x] Worked on furrier transforms
 [x] Talk - Michael Bernstein, a Unifying Theory of Garbage Collection
