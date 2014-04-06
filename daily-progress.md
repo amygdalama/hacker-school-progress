@@ -4,9 +4,17 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+04/05/13, Saturday
+---------------------
+* Finished migrating phonebook to database
+* jogged
+* chores
+* finished ch 4 dive into python
+
 04/04/13, Friday
 ---------------------
-* 
+* more of Dive, almost done with Ch 4
+* made a phonebook command line tool!
 
 04/03/13, Thursday
 ---------------------
