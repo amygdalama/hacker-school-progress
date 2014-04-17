@@ -4,25 +4,25 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
-04/05/13, Saturday
+04/05/14, Saturday
 ---------------------
 * Finished migrating phonebook to database
 * jogged
 * chores
 * finished ch 4 dive into python
 
-04/04/13, Friday
+04/04/14, Friday
 ---------------------
 * more of Dive, almost done with Ch 4
 * made a phonebook command line tool!
 
-04/03/13, Thursday
+04/03/14, Thursday
 ---------------------
 * Dive into Python Ch 4 (50%)
 * Sat in the park, in the sun
 * Thursday talks
 
-04/02/13, Wednesday
+04/02/14, Wednesday
 ---------------------
 * Dive into Python Ch 2-3
 * Figured out how to peek into the changes in locals() while an expression like
@@ -33,29 +33,29 @@ Completed tasks are marked with [x]
     
   is running
 
-04/01/13, Tuesday
+04/01/14, Tuesday
 ---------------------
 * Wrote "Hello World" blog post about definiing functions using `exec`, `compile`, and swapping out their `__code__` methods.
 * Finished Ch1 Dive, did about 20% of Ch2
 * Learned about integers (there are short and long ints) in Clojure that you have to write your own exponential function in Clojure if you want to use long ints (is that true?? what if you passed the builtin function in Clojure a long int? - ask Jeff)
 * Learned about virtualenvwrapper hooks. Cool!
 
-03/31/13, Monday
+03/31/14, Monday
 ---------------------
 * Finished A Love Affair blog post
 * Read most of Ch1 of Dive into Python
 * Figured out how to use `exec`, `eval`, and `compile` Python builtin functions
 * Figured out what happens with `import_from` statements: the entire module gets added to `sys.modules`, but only the part after the `import` gets binded to a name in the namespace (write about this! and how I tested it!)
 
-03/30/13, Sunday
+03/30/14, Sunday
 ---------------------
 * Half of my A Love Affair with Broken Things blog post
 
-03/28/13 - 03/29/13
+03/28/14 - 03/29/14
 ---------------------
 * Jenny and Joanna visited!
 
-03/27/13, Thursday
+03/27/14, Thursday
 ---------------------
 * Lunch with Zed Shaw!
 * The bpython bug I fixed with Tom got merged! Cool!
@@ -63,7 +63,7 @@ Completed tasks are marked with [x]
 * Helped David write an object that's somewhat recursive
 
 
-03/26/13, Wednesday
+03/26/14, Wednesday
 ---------------------
 * Birthday!
 * Worked on counting syllables with Rob
@@ -71,7 +71,7 @@ Completed tasks are marked with [x]
 * Learned a bit about Heroku
 
 
-03/25/13, Tuesday
+03/25/14, Tuesday
 ---------------------
 * Mary's intro to functional programming
 * Whoa I understand side-effects
@@ -79,7 +79,7 @@ Completed tasks are marked with [x]
 * Gave a talk at Hack and Tell!
 * Met Zed Shaw (holy shit)!
 
-03/24/13, Monday
+03/24/14, Monday
 ---------------------
 * Started working on PyKu with Rob - trying to write a program that takes in a string and counts the number of syllables in the string
 * Fixed a bpython bug and submitted a patch with Tom
@@ -87,17 +87,17 @@ Completed tasks are marked with [x]
 * Worked on slides for replacing import with accio talk with David Branner (they're now much better)
 * Attended Lindsey Kuper talk
 
-03/23/13, Sunday
+03/23/14, Sunday
 ---------------------
 * Blog Post! - __builtin__ vs __builtins__
 
-03/22/13, Saturday
+03/22/14, Saturday
 ---------------------
 
 * The Met!
 * Central Park!
 
-03/21/13, Friday
+03/21/14, Friday
 ---------------------
 
 * submitted proposals to pyohio, self.conference
@@ -105,14 +105,14 @@ Completed tasks are marked with [x]
 * website - added projects and talks pages
 
 
-03/20/13, Thursday
+03/20/14, Thursday
 ---------------------
 
 * submitted proposals to bangbangcon and open source bridge
 * a bit of bpython bugs
 
 
-03/19/13, Wednesday
+03/19/14, Wednesday
 ---------------------
 
 * finished slides for PyLadies talk
@@ -121,14 +121,14 @@ Completed tasks are marked with [x]
 * talk at PyLadies meetup
 
 
-03/18/13, Tuesday
+03/18/14, Tuesday
 ---------------------
 
 * Attended Tom's session on Classes, Objects, Descriptors in Python. See notes in ~/projects/objects
 * worked on slides for PyLadies talk
 
 
-03/17/13, Monday
+03/17/14, Monday
 ---------------------
 
 * Emailed PyLadies about speaking at Coding Potluck on Wednesday
@@ -136,13 +136,13 @@ Completed tasks are marked with [x]
 * learned more about how import statements work when they're not in the __main__ module
 * learned more about __builtin__ vs __builtins__
 
-03/16/13, Sunday
+03/16/14, Sunday
 ---------------------
 
 * Prospect Park
 * chores, cooking
 
-03/15/13, Saturday
+03/15/14, Saturday
 ---------------------
 
 * Jewish Museum with Ana
@@ -150,26 +150,26 @@ Completed tasks are marked with [x]
 * Merged first pull request from a stranger! They fixed a typo in my blog :heart eyes cat:
 * Submitted presentation proposal to Hack and Tell
 
-03/14/13, Friday
+03/14/14, Friday
 ---------------------
 
 * Blog post on nagini!
 * Holy shit the internet loves me!
 
-03/13/13, Thursday
+03/14/14, Thursday
 ---------------------
 
 * Nagini - compiled successfully! replaced import with accio!
 * Gave a talk!
 
 
-03/12/13, Wednesday
+03/12/14, Wednesday
 ---------------------
 
 * Nagini - downloaded cpython, made some edits, ruined a .git repository, started over. Allison realized we need to compile an intermediary python to compile our import-less python.
 * git workshop
 
-03/11/13, Tuesday
+03/11/14, Tuesday
 ---------------------
 
 * Worked on Furrier Transforms a bit. Felt miserable. Quit.
@@ -177,34 +177,34 @@ Completed tasks are marked with [x]
 * Helped Gina with Pelican/blog setup
 * Star Trek with Mindy
 
-03/10/13, Monday
+03/10/14, Monday
 ---------------------
 
 * Helped Rob with Pelican, made little progress, something is wrong on his environment and I didn't figure it out
 * Got help from Andreas on Furrier Transforms - yay!
 * Crashed. Hard.
 
-03/09/13, Sunday
+03/09/14, Sunday
 ---------------------
 
 * Cloisters
 * Wandering around Manhattan
 * Laid in bed, much needed relaxation
 
-03/08/13, Saturday
+03/08/14, Saturday
 ---------------------
 
 * Blog post - Publication using GitHooks
 * Read Maus! Outside!
 
-03/07/13, Friday
+03/07/14, Friday
 ---------------------
 
 * Prospect Park and Brooklyn Public Library with Paddy, David, Mindy
 * Attempted learning graphs at Friday jobs prep session, but crashed and went home, fucked around on computer, wasted time
 
 
-03/06/13, Thursday
+03/06/14, Thursday
 ---------------------
 
 [x] Helped David Branner with Pelican, I think, maybe
@@ -212,46 +212,46 @@ Completed tasks are marked with [x]
 
 *completed much later... maybe this isn't a valuable way to spend time*
 
-03/05/13, Wednesday
+03/05/14, Wednesday
 ---------------------
 
 [x] Worked on furrier transforms - made sounds! Although they're slightly off. Made a proper script!
 [x] Helped a couple people with Pelican! Felt useful! <3
 [x] Data Rave Meetup - Dark Matter, Earthquakes, the First Stars & Python
 
-03/04/13, Tuesday
+03/04/14, Tuesday
 ---------------------
 
 [x] Worked on furrier transforms
 [x] Cosmos premiere!
 
-03/03/13, Monday
+03/03/14, Monday
 ---------------------
 
 [x] Switch to weekly goals and a daily things-I-did list
 [x] Worked on furrier transforms
 [x] Talk - Michael Bernstein, a Unifying Theory of Garbage Collection
 
-03/02/13, Sunday
+03/02/14, Sunday
 ---------------------
 
 ### To-Dos
 [x] NY Transit Museum!
 
 
-03/01/13, Saturday
+03/01/14, Saturday
 ---------------------
 
 ### To-Dos
 [x] Bike ride!
 
-02/28/13, Friday
+02/28/14, Friday
 ---------------------
 
 ### To-Dos
 [x] Recursive functions with Katrina! https://hackpad.com/Jobs-Friday-February-28-Recursion-GViCIj1PNBP
 
-02/27/13, Thursday
+02/27/14, Thursday
 ---------------------
 
 ### To-Dos
@@ -262,7 +262,7 @@ Completed tasks are marked with [x]
 ### Spontaneous, Arguably Interesting Things I Did
 [x] Helped David with a recursive parser in python
 
-02/26/13, Wednesday
+02/26/14, Wednesday
 ---------------------
 
 ### To-Dos
@@ -273,7 +273,7 @@ Completed tasks are marked with [x]
 [x] Enable Disqus (or at least attempt to)
 [x] Code Review with Allison
 
-02/25/13, Tuesday
+02/25/14, Tuesday
 ---------------------
 ### To-Dos
 ~~[] Get more clojure - http://java.ociweb.com/mark/clojure/article.html~~
@@ -283,7 +283,7 @@ Completed tasks are marked with [x]
 [x] Crazy types with Evan
 [x] Sleep
 
-02/24/13, Monday
+02/24/14, Monday
 ---------------------
 ### To-Dos
 [x] Install Clojure dependencies
@@ -292,7 +292,7 @@ Completed tasks are marked with [x]
 [x] Evan Czaplicki talk on types
 [x] Evan talk on dynamic reactive functional programming in Elm
 
-02/23/13, Sunday
+02/23/14, Sunday
 ---------------------
 
 ### To-Dos
@@ -300,7 +300,7 @@ Completed tasks are marked with [x]
 * [x] Finish Blog Post - How Should I Learn to Code?
 * [x] Blog post - what if I fucked up my website's github repo? - added to original post
 
-02/22/13, Saturday
+02/22/14, Saturday
 ---------------------
 
 ### To-Dos
@@ -308,7 +308,7 @@ Completed tasks are marked with [x]
 * [-] **Finish Blog Post - How Should I Learn to Code?**
 * [x] Music Hackathon presentations at Etsy
 
-02/21/13, Friday
+02/21/14, Friday
 ---------------------
 
 ### To-Dos
@@ -316,7 +316,7 @@ Completed tasks are marked with [x]
 * [x] Hashtable workshop - https://hackpad.com/Jobs-Friday-February-21-Hash-Tables-NNBqlsk9PYa
 * [x] Work on Blog Post - Migrating to Pelican
 
-02/20/13, Thursday
+02/20/14, Thursday
 ---------------------
 
 ### To-Dos
@@ -330,7 +330,7 @@ Completed tasks are marked with [x]
 * [x] Source-diving workshop with Greg (what is going on in this huge chunk of source code?)
 * [x] Project Euler
 
-02/19/13, Wednesday
+02/19/14, Wednesday
 ---------------------
 
 ### To-Dos
@@ -341,7 +341,7 @@ Completed tasks are marked with [x]
 * [x] Signal Processing in Python with Mel Chua - 
 * [x] Created IPython Notebook for Mel's signal processing tutorial - [NBViewer](http://nbviewer.ipython.org/github/amygdalama/pycon-sigproc/blob/master/signal_processing.ipynb), [GitHub](https://github.com/amygdalama/pycon-sigproc) - first pull request eeeep!
 
-02/18/13, Tuesday
+02/18/14, Tuesday
 ---------------------
 
 ### To-Dos
@@ -349,14 +349,14 @@ Completed tasks are marked with [x]
 * [x] Final website modifications - Header image, twitter icon, contact page icons
 * [x] Transfer mathamy.com domain to GitHub pages
 * [-] *Start work on Julia's pandas cookbook*
-* [x] Mel Chua talk on learning styles, 2pm - http://blog.melchua.com/2013/06/19/hacker-school-session-engineering-learning-styles/
+* [x] Mel Chua talk on learning styles, 2pm - http://blog.melchua.com/2014/06/19/hacker-school-session-engineering-learning-styles/
 * ~~[] Goal-setting workshop with Stacey, 3:30pm~~
 * [x] Jobs talk with Allison and Tom, 6pm
 
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Helped Chris set up Pelican and GitHub Pages
 
-02/17/13, Monday
+02/17/14, Monday
 ---------------------
 
 ### To-Dos
@@ -367,7 +367,7 @@ Completed tasks are marked with [x]
 * [x] Discuss my ideas for how to learn blog post with Mel
 
 
-02/15/13, Saturday
+02/15/14, Saturday
 ---------------------
 
 ### To-Dos
@@ -375,7 +375,7 @@ Completed tasks are marked with [x]
 * [-] *Blog Post - how to migrate your wordpress site to GitHub pages/Pelican*
 * [-] *Blog Post - How should I learn to code?*
 
-02/14/13, Friday
+02/14/14, Friday
 ---------------------
 
 ### To-Dos
@@ -384,7 +384,7 @@ Completed tasks are marked with [x]
 
 ### Spontaneous, Arguably Interesting Things I Did
 
-02/13/13, Thursday
+02/14/14, Thursday
 ---------------------
 
 ### To-Dos
@@ -397,7 +397,7 @@ Completed tasks are marked with [x]
 
 ### Spontaneous, Arguably Interesting Things I Did
 
-02/12/13, Wednesday
+02/12/14, Wednesday
 ---------------------
 
 ### To-Dos
@@ -412,7 +412,7 @@ Completed tasks are marked with [x]
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Late-night experiment with migrating personal website hosted on WordPress to GitHub pages with Pelican. Pelican is fairly friendly with WordPress .xml output, as it has a built-in tool that converts the .xml files to .md files (which Pelican then converts to HTML), but not all of my embedded code gets transferred perfectly. Thus I'll have to manually edit the resulting .md files. Because of this, if I want to transfer my site to GitHub/Pelican, I should do so sooner rather than later, in order to minimize the number of .md files (one per post) I have to edit. This is a good project for the weekend.
 
-02/11/13, Tuesday
+02/11/14, Tuesday
 ---------------------
 
 ### To-Dos
@@ -424,7 +424,7 @@ Completed tasks are marked with [x]
 ### Spontaneous, Arguably Interesting Things I Did
 * [x] Helped David with using regex to build a parser with Lua. Essentially he wanted a tool that would look at patterns like "name_of_thing = value_of_thing" or "name_of_thing=value_of_thing" and parse them into key, value pairs.
 
-02/10/13, Monday
+02/10/14, Monday
 ---------------------
 
 ### To-Dos
