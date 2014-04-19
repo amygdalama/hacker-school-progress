@@ -4,6 +4,59 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+04/19/14, Saturday
+---------------------
+* Updated Projects page on website
+* Blog post - Iron Maker or Forger or Whatever
+
+04/18/14, Friday
+---------------------
+* HS Profile
+
+04/17/14, Thursday
+---------------------
+* Continuted reading Data Structures and Algorithms, Ch 1
+
+04/16/14, Wednesday
+---------------------
+* All the ways I can print Fibonacci numbers
+* Began Data Structures and Algorithms, Ch 1
+
+04/15/14, Tuesday
+---------------------
+* Read Dive Into Python Ch 7 - Classes and Iterators
+* Finished writing tests for phonebook
+
+04/14/14, Monday
+---------------------
+* Nothing?
+
+04/11/14, Friday
+---------------------
+* Worked on tests for phonebook
+
+04/10/14, Thursday
+---------------------
+* Worked on tests for phonebook
+* Blog Post - Python Closures and Free Variables
+
+04/09/14, Wednesday
+---------------------
+* ?
+
+04/08/14, Tuesday
+---------------------
+* Read Dive Into Python, Ch 6
+
+04/07/14, Monday
+---------------------
+* Blog Post - Dissecting Reduce Function
+* Finished Dive Into Python, Ch 5
+
+04/06/14, Sunday
+---------------------
+* Started Dive Into Python, Ch 5
+
 04/05/14, Saturday
 ---------------------
 * Finished migrating phonebook to database
