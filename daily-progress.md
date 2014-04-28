@@ -4,10 +4,44 @@ Completed tasks are marked with [x]
 *Incomplete tasks moved to a later date are in italics*  
 ~~Tasks I quit are crossed out.~~ Deciding not to do things that are no longer intellectually stimulating is okay!
 
+04/28/14, Monday
+---------------------
+
+04/27/14, Sunday
+---------------------
+* Finished on Python Default Arguments blog post
+
+04/26/14, Saturday
+---------------------
+* Worked on Python Default Arguments blog post
+
+04/24/14, Thursday
+---------------------
+* Worked on Iron Forger
+
+04/23/14, Wednesday
+---------------------
+* Worked on Iron Forger
+* Finished Ch 3 and began Ch 4, Data Structures and Algorithms
+
+04/22/14, Tuesday
+---------------------
+* Began working on Iron Forger
+* Started Ch 3, Data Structures and Algorithms
+
+04/21/14, Monday
+---------------------
+* Met with Mary on Fib script and how the internet works
+
+04/20/14, Sunday
+---------------------
+* Fininshed reading Ch 1 & 2 of Data Structures and Algorithms
+
 04/19/14, Saturday
 ---------------------
 * Updated Projects page on website
 * Blog post - Iron Maker or Forger or Whatever
+* Cleaned up GitHub Readmes
 
 04/18/14, Friday
 ---------------------
